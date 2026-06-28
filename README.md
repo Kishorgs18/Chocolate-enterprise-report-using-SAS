@@ -16,6 +16,21 @@ the findings as an executive-ready report.
 - KPI dashboards and visual reporting produced in SAS BI.
 - Insights and recommendations framed for business stakeholders.
 
+## Dashboards
+
+**Report Overview** — a landing page summarising the Catalog Sales, Retail, and
+Location analyses (total profit ≈ $462K over the period).
+
+![Report overview dashboard](assets/overview_dashboard.png)
+
+**Location Analysis** — geographic profit distribution: the United States and
+Canada are the main profit-generating regions, broken down to state level
+(California leading).
+
+![Location analysis dashboard](assets/location_analysis.png)
+
+> Screenshots are from the full SAS BI report PDF in this repo.
+
 ## Tool
 
 **SAS Business Intelligence** (reporting & visual analytics).
